@@ -30522,6 +30522,10 @@
 	1021.12.8 = {
 		birth = yes
 	}
+	1070.1.1 = {
+		create_bloodline = {
+			type = blood_of_wang_anshi
+		}
 	1086.5.21 = {
 		death = yes
 	}
@@ -33403,6 +33407,10 @@
 	1164.1.1 = {
 		birth = yes
 	}
+	1208.1.1 = {
+		create_bloodline = {
+			blood_of_shi_miyuan 
+		}
 	1233.1.1 = {
 		death = yes
 	}
